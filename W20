@@ -1,0 +1,67 @@
+삼성전자 북미 MX CS 정기회의 회의록
+1. NPS 개선 현황
+15주차 이후 북미 MX NPS가 지속 개선 중이며, 집화 수리점 점수도 회복 추세 확인.
+
+→ 액션아이템
+
+현재 개선 트렌드를 유지하고, 7~13주차 수준의 안정적인 NPS 상태로 복귀 필요.
+2. 수리 품질 및 GD IQC 활용 이슈
+일부 현장에서 AOD Setup/Jig 미사용 및 IQC 미흡으로 오진·오수리 사례 발생.
+
+→ 액션아이템
+
+현장 점검을 지속하고, GD IQC 활용성 및 프로세스 단절 여부에 대한 현장 피드백 수집 필요.
+3. 카메라 진단 기능 개선 요청
+현재는 Rear Camera 전체 불량만 확인 가능하며, 세부 카메라 모듈 식별이 어려움.
+
+→ 액션아이템
+
+로그 및 사례를 취합해 사업부에 카메라 모듈 단위 진단 기능 개선 재요청.
+4. Buds/Wearable 시리얼 관리 이슈
+Pairing 실패 시 시리얼 확인이 어려워 Contact Center에서 고객 불편이 발생 중.
+
+→ 액션아이템
+
+Pairing 기반 Master Serial 확인 프로세스를 강화하고, Samsung Members/Account 연계 방안 검토.
+5. Main Service 운영 이슈
+인력 공백 발생 시 Backup 체계 부족으로 운영 품질 저하 우려 존재.
+
+→ 액션아이템
+
+Backup 프로세스를 보완하고, Walk-in → Main Service 전환 프로세스 개선 검토.
+6. Wearable Walk-in Repair 운영
+일부 UBIF Store에서 Wearable 수리를 회피하거나 Main Service로 전환하는 사례 존재.
+
+→ 액션아이템
+
+Wearable Repair Labor 및 운영 구조를 재검토하고, 최소 2~3일 내 처리 가능한 방향 검토 필요.
+7. Happy Call 및 Contact Center 운영
+Happy Call은 NPS 개선 효과가 확인됐으나, 일부 상담원의 과도한 약속(Over-Commitment) 사례 발생.
+
+→ 액션아이템
+
+Happy Call 운영은 유지하되, Contact Center 가이드 및 리더십 차원의 관리 강화 필요.
+8. Walk-in Appointment 연동 오류
+Contact Center 예약 정보가 Store로 전달되지 않는 시스템 Disconnect 확인.
+
+→ 액션아이템
+
+예정된 시스템 Fix 적용 후 재발 여부 지속 모니터링.
+9. Repair Speed 및 Store Manager 영향
+신규 Manager 또는 Turnover 발생 시 Repair Speed 및 결과 품질 저하 경향 확인.
+
+→ 액션아이템
+
+Manager 변경 시 교육 및 검증 프로세스를 강화하고, 필요 시 HQ 직접 지원 검토.
+10. AOD Kit/Hinge Pin 공급 이슈
+일부 부품 분실 시 Kit 전체를 재구매해야 하는 공급 구조 문제 확인.
+
+→ 액션아이템
+
+Hinge Pin 등 소모성 부품의 단품 구매 가능 여부를 사업부와 협의 추진.
+11. Repair Status Portal 개선
+실시간 Tracking 기능은 개발 중이나, 지나친 상세 공개 시 고객 불안 가능성 존재.
+
+→ 액션아이템
+
+고객 불안을 최소화할 수 있는 수준으로 Status 노출 정책 검토 및 안정화 진행.
